@@ -1,2 +1,2 @@
-# developer-learning-resources
+# Developer Learning Resources Directory
 Developer Learning Resources
