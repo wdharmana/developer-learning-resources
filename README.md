@@ -1,6 +1,4 @@
 # Developer Learning Resources Directory
-Developer Learning Resources
-
 
 ## Kotlin Android
 <table>
@@ -25,6 +23,21 @@ Developer Learning Resources
 </table>
 
 ## Java Android
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udacity.com/course/android-basics-user-interface--ud834">Android Basics: User Interface</a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Free</td>
+  </tr>
+</table>
+
 
 ## Flutter
 
