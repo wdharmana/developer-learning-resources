@@ -41,6 +41,22 @@
 
 ## Flutter
 
+## Javascript
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">Javascript Basic Guide<a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Free</td>
+  </tr>
+</table>
+
 ## Swift
 
 ## React Native
