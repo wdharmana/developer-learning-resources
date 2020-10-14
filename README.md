@@ -160,6 +160,12 @@
      <td>English</td>
      <td>Premium</td>
   </tr>
+   <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/artificial-intelligence-in-unity/">The Beginner's Guide to Artificial Intelligence in Unity. </a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
 </table>
 
 ## S.O.L.I.D
