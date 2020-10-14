@@ -81,6 +81,12 @@
      <td>English</td>
      <td>Premium</td>
   </tr>
+    <tr>
+    <td><a target="_blank" href="https://acad.link/js-tricky">JS Tips & Trick<a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
 </table>
 
 ## Swift
@@ -100,6 +106,21 @@
 </table>
 
 ## React Native
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/171">Memulai Pemrograman Dengan React Native</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Free</td>
+  </tr>
+</table>
+
 
 ## Git
 
@@ -134,3 +155,35 @@
      <td>Premium</td>
   </tr>
 </table>
+
+## Flutter
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/191">Memulai Pemrograman Dengan Dart</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Free</td>
+  </tr>
+</table>
+
+## S.O.L.I.D
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/169">Belajar Prinsip Pemrograman SOLID</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Free</td>
+  </tr>
+</table>
+
