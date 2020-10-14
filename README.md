@@ -40,6 +40,20 @@
 
 
 ## Flutter
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/learn-flutter-beginners-course/">Learn Flutter - Beginners Course </a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Free</td>
+  </tr>
+</table>
 
 ## Javascript
 <table>
