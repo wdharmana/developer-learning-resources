@@ -203,7 +203,7 @@
      <th>Free/Premium?</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://www.udemy.com/course/learn-flutter-beginners-course/">Business Data & Analytics MySQL SQL - MySQL for Data Analytics and Business Intelligence </a></td>
+    <td><a target="_blank" href="https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/">Business Data & Analytics MySQL SQL - MySQL for Data Analytics and Business Intelligence </a></td>
      <td>Beginner</td>
      <td>English</td>
      <td>Premium</td>
