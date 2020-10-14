@@ -55,6 +55,12 @@
      <td>English</td>
      <td>Free</td>
   </tr>
+  <tr>
+    <td><a target="_blank" href="https://academind.com/learn/vue-js/vue3-whats-new/">Vue 3 - Whats New<a></td>
+     <td>Intermediate</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
 </table>
 
 ## Swift
