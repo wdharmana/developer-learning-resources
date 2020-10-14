@@ -178,3 +178,19 @@
   </tr>
 </table>
 
+## AI
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/artificial-intelligence-az/">Artificial Intelligence A-Z™: Learn How To Build An AI </a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Premium</td>
+  </tr>
+</table>
+
