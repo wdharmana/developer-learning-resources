@@ -73,6 +73,13 @@
      <td>English</td>
      <td>Premium</td>
   </tr>
+  <tr>
+    <td><a target="_blank" href="https://acad.link/reactjs">React - The Complete Guide<a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+  
 </table>
 
 ## Swift
