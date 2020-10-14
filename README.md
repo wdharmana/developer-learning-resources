@@ -194,3 +194,18 @@
   </tr>
 </table>
 
+## SQL
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/">Business Data & Analytics MySQL SQL - MySQL for Data Analytics and Business Intelligence </a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+</table>
