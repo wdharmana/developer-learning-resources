@@ -155,3 +155,20 @@
      <td>Free</td>
   </tr>
 </table>
+
+## S.O.L.I.D
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/169">Belajar Prinsip Pemrograman SOLID</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Free</td>
+  </tr>
+</table>
+
