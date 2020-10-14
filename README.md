@@ -41,8 +41,81 @@
 
 ## Flutter
 
+## Javascript
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">Javascript Basic Guide<a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Free</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://academind.com/learn/vue-js/vue3-whats-new/">Vue 3 - Whats New<a></td>
+     <td>Intermediate</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://pro.academind.com/p/deno-the-complete-introduction">Deno - The Complete Introduction<a></td>
+     <td>Intermediate</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+</table>
+
 ## Swift
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/145">Memulai Pemrograman Dengan Swift</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Free</td>
+  </tr>
+</table>
 
 ## React Native
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/171">Memulai Pemrograman Dengan React Native</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Free</td>
+  </tr>
+</table>
+
 
 ## Git
+
+## Python
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/86">Memulai Pemrograman Dengan Python</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Free</td>
+  </tr>
+</table>
