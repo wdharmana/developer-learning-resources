@@ -53,6 +53,12 @@
      <td>English</td>
      <td>Free</td>
   </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/191">Memulai Pemrograman Dengan Dart</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Free</td>
+  </tr>
 </table>
 
 ## Javascript
@@ -153,21 +159,6 @@
      <td>Beginner</td>
      <td>English</td>
      <td>Premium</td>
-  </tr>
-</table>
-
-## Flutter
-<table>
-  <tr>
-    <th>Resource Name</th>
-     <th>Level</th>
-     <th>Language</th>
-     <th>Free/Premium?</th>
-  </tr>
-    <td><a target="_blank" href="https://www.dicoding.com/academies/191">Memulai Pemrograman Dengan Dart</a></td>
-     <td>Beginner</td>
-     <td>Indonesia</td>
-     <td>Free</td>
   </tr>
 </table>
 
