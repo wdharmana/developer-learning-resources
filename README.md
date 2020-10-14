@@ -258,3 +258,19 @@
      <td>Premium</td>
   </tr>
 </table>
+
+## JIRA
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/introduction-to-jira/">Understanding Jira for users, managers and admins</a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+</table>
