@@ -118,3 +118,19 @@
      <td>Free</td>
   </tr>
 </table>
+
+## Unity
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/unitycourse/">Complete C# Unity Game Developer 2D </a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+</table>
