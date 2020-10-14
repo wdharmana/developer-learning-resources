@@ -40,6 +40,20 @@
 
 
 ## Flutter
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/learn-flutter-beginners-course/">Learn Flutter - Beginners Course </a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Free</td>
+  </tr>
+</table>
 
 ## Javascript
 <table>
@@ -67,6 +81,19 @@
      <td>English</td>
      <td>Premium</td>
   </tr>
+    <tr>
+    <td><a target="_blank" href="https://acad.link/js-tricky">JS Tips & Trick<a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://acad.link/reactjs">React - The Complete Guide<a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+  
 </table>
 
 ## Swift
@@ -119,3 +146,51 @@
      <td>Free</td>
   </tr>
 </table>
+
+## Unity
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/unitycourse/">Complete C# Unity Game Developer 2D </a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+</table>
+
+## Flutter
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/191">Memulai Pemrograman Dengan Dart</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Free</td>
+  </tr>
+</table>
+
+## S.O.L.I.D
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/169">Belajar Prinsip Pemrograman SOLID</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Free</td>
+  </tr>
+</table>
+
