@@ -140,7 +140,7 @@
   </tr>
 </table>
 
-## Flutter
+## Unity
 <table>
   <tr>
     <th>Resource Name</th>
@@ -149,6 +149,21 @@
      <th>Free/Premium?</th>
   </tr>
   <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/unitycourse/">Complete C# Unity Game Developer 2D </a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+</table>
+
+## Flutter
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
     <td><a target="_blank" href="https://www.dicoding.com/academies/191">Memulai Pemrograman Dengan Dart</a></td>
      <td>Beginner</td>
      <td>Indonesia</td>
