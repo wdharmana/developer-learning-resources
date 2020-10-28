@@ -318,6 +318,27 @@
   </tr>
 </table>
 
+## Data Science, Data Mining, Processing Big Data
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617">Intro to Hadoop and MapReduce</a></td>
+     <td>Expert</td>
+     <td>English</td>
+     <td>Free</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/apache-spark-with-scala-hands-on-with-big-data/">Apache Spark with Scala - Hands On with Big Data!</a></td>
+     <td>Expert</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+</table>
 
 ## Elastic Search
 <table>
