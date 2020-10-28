@@ -316,6 +316,12 @@
      <td>English</td>
      <td>Premium</td>
   </tr>
+  <tr>
+    <td><a href="https://www.udemy.com/course/docker-essentials/" target="_blank">Docker Essentials</a></td>
+    <td>All Levels</td>
+    <td>English</td>
+    <td>Free</td>
+  </tr>
 </table>
 
 ## Data Science, Data Mining, Processing Big Data
