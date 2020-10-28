@@ -159,6 +159,12 @@
      <td>Indonesia</td>
      <td>Free</td>
   </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/171">Belajar Membuat Aplikasi iOS untuk Pemula</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Premium</td>
+  </tr>
 </table>
 
 ## React Native
