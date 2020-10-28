@@ -136,6 +136,26 @@
 
 
 ## Git
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://git-scm.com/book/id/v2/Memulai-Dasar-dasar-Git">Dasar-dasar Git</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Free</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://rogerdudler.github.io/git-guide/index.id.html">panduan ringkas - gak pake ribet! - git</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Free</td>
+  </tr>
+</table>
 
 ## Python
 <table>
