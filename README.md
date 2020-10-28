@@ -238,6 +238,46 @@
   </tr>
 </table>
 
+## Testing
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.codepolitan.com/belajar-unit-testing-dengan-phpunit">Belajar Unit Testing dengan PHPUnit</a></td>
+     <td>Intermediate</td>
+     <td>Indonesian</td>
+     <td>Free</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.vogella.com/tutorials/JUnit/article.html">Unit Testing with JUnit - Tutorial</a></td>
+     <td>Intermediate</td>
+     <td>English</td>
+     <td>Free</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/learn-javascript-unit-testing-with-mocha-chai-and-sinon/">Learn Javascript Unit Testing With Mocha, Chai and Sinon</a></td>
+     <td>Intermediate</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.raywenderlich.com/251-updated-course-testing-in-ios">Testing in iOS</a></td>
+     <td>Intermediate</td>
+     <td>English</td>
+     <td>Free</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.datacamp.com/community/tutorials/unit-testing-python">Unit Testing in Python</a></td>
+     <td>Intermediate</td>
+     <td>English</td>
+     <td>Free</td>
+  </tr>
+</table>
+
 ## S.O.L.I.D
 <table>
   <tr>
@@ -350,7 +390,6 @@
      <td>English</td>
      <td>Premium</td>
   </tr>
-  
 </table>
 
 ## Elastic Search
