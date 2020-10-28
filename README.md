@@ -38,6 +38,27 @@
   </tr>
 </table>
 
+## Java Basics
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/60">Memulai Pemrograman Dengan Java</a></td>
+    <td>Beginner</td>
+    <td>Indonesian</td>
+    <td>Free</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.codepolitan.com/mengenal-dan-memulai-pemrograman-java-belajar-java">Mengenal dan Memulai Pemrograman Java</a></td>
+    <td>Beginner</td>
+    <td>Indonesian</td>
+    <td>Free</td>
+  </tr>
+</table>
 
 ## Flutter
 <table>
