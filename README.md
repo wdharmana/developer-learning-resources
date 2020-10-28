@@ -344,6 +344,13 @@
      <td>English</td>
      <td>Premium</td>
   </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.coursera.org/specializations/big-data">Big Data Specialization</a></td>
+     <td>Expert</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+  
 </table>
 
 ## Elastic Search
