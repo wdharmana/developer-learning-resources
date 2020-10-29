@@ -271,6 +271,12 @@
      <td>Premium</td>
   </tr>
   <tr>
+    <td><a target="_blank" href="https://academind.com/learn/vue-js/vue3-whats-new/">Vue 3 - Whats New<a></td>
+     <td>Intermediate</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+  <tr>
     <td><a target="_blank" href="https://pro.academind.com/p/deno-the-complete-introduction">Deno - The Complete Introduction<a></td>
      <td>Intermediate</td>
      <td>English</td>
