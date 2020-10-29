@@ -544,6 +544,104 @@
   </tr>
 </table>
 
+## AI
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/artificial-intelligence-az/">Artificial Intelligence A-Z™: Learn How To Build An AI </a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Premium</td>
+  </tr>
+</table>
+
+## SQL
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/">Business Data & Analytics MySQL SQL - MySQL for Data Analytics and Business Intelligence </a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+</table>
+
+## R
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/">Data Science and Machine Learning Bootcamp with R</a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+</table>
+
+## Docker & Kubernetes
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/docker-mastery/">Docker Mastery: with Kubernetes +Swarm from a Docker Captain</a></td>
+     <td>Medium</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udemy.com/course/docker-essentials/" target="_blank">Docker Essentials</a></td>
+    <td>All Levels</td>
+    <td>English</td>
+    <td>Free</td>
+  </tr>
+</table>
+
+## Data Science, Data Mining, Processing Big Data
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617">Intro to Hadoop and MapReduce</a></td>
+     <td>Expert</td>
+     <td>English</td>
+     <td>Free</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udemy.com/course/apache-spark-with-scala-hands-on-with-big-data/">Apache Spark with Scala - Hands On with Big Data!</a></td>
+     <td>Expert</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.coursera.org/specializations/big-data">Big Data Specialization</a></td>
+     <td>Expert</td>
+     <td>English</td>
+     <td>Premium</td>
+  </tr>
+</table>
+
 ## Elastic Search
 <table>
   <tr>
