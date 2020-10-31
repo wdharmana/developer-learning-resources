@@ -144,49 +144,6 @@
   </tr>
   
 </table>
-## Java Basics
-<table>
-  <tr>
-    <th>Resource Name</th>
-     <th>Level</th>
-     <th>Language</th>
-     <th>Free/Premium?</th>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://www.dicoding.com/academies/60">Memulai Pemrograman Dengan Java</a></td>
-    <td>Beginner</td>
-    <td>Indonesian</td>
-    <td>Free</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://www.codepolitan.com/mengenal-dan-memulai-pemrograman-java-belajar-java">Mengenal dan Memulai Pemrograman Java</a></td>
-    <td>Beginner</td>
-    <td>Indonesian</td>
-    <td>Free</td>
-  </tr>
-</table>
-
-## Java Advanced
-<table>
-  <tr>
-    <th>Resource Name</th>
-     <th>Level</th>
-     <th>Language</th>
-     <th>Free/Premium?</th>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://medium.com/doku-insight/membangun-rest-api-dengan-springboot-a5f0b1b78b92">Membangun REST API dengan SpringBoot</a></td>
-    <td>Expert</td>
-    <td>Indonesian</td>
-    <td>Free</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://spring.io/guides/gs/actuator-service/">Building a RESTful Web Service with Spring Boot Actuator</a></td>
-    <td>Expert</td>
-    <td>English</td>
-    <td>Free</td>
-  </tr>
-</table>
 
 ## Flutter
 <table>
@@ -310,6 +267,12 @@
      <td>Beginner</td>
      <td>Indonesia</td>
      <td>Free</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/171">Belajar Membuat Aplikasi iOS untuk Pemula</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Premium</td>
   </tr>
 </table>
 
